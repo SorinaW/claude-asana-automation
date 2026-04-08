@@ -1,0 +1,17 @@
+{
+  "name": "asana-connection",
+  "version": "1.0.0",
+  "description": "Control Asana from Claude Code — tasks, goals, projects, and more",
+  "main": "cli.ts",
+  "scripts": {
+    "setup": "npx ts-node cli.ts setup",
+    "cli": "npx ts-node cli.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.4.0",
+    "ts-node": "^10.9.0",
+    "@types/node": "^20.0.0"
+  },
+  "author": "Sorina Weber",
+  "license": "MIT"
+}

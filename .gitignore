@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.asana-api-key
+*.js
+*.d.ts
+*.js.map
